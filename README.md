@@ -1,1 +1,1 @@
-# embedded-broker
+# Embedded Apache Qpid™ Broker
